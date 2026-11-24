@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1001,
+        "title": "Pomodoro King",
+        "description": "You have mastered the Pomodoro technique. Well done!",
+        "points": "10 000",
+        "imageName": "PomodoroKing"
+    },
+    {
+        "id": 1002,
+        "title": "Pomodoro Knight",
+        "description": "Start your Pomodoro journey. Take your sword and concquer your open tasks.",
+        "points": "100",
+        "imageName": "PomodoroKnight"
+    },
+    {
+        "id": 1003,
+        "title": "Pomodoro Winner",
+        "description": "Wow you keep winning by completing more and more Pomodoro sessions.",
+        "points": "80",
+        "imageName": "PomodoroWinner"
+    }, {
+        "id": 1004,
+        "title": "Pomodoro Beginner",
+        "description": "Cool. You made yourself familiar with the Pomodoro technique",
+        "points": "50",
+        "imageName": "PomodoroCool"
+    }
+]
